@@ -1,0 +1,8 @@
+prefix=/home/bouli/catkin_ws/devel
+
+Name: lidar_simulation
+Description: Description of lidar_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
